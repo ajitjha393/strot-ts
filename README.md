@@ -1,3 +1,3 @@
-# rxjs-zt5kiv
+# strot-ts
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/rxjs-zt5kiv)
+A simple and statically typed state management solution written using Rxjs and Typescript
